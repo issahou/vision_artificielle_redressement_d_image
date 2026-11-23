@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1795463546 source:c:\users\youss\downloads\va\tp0\main.cpp
+	<opencv2/opencv.hpp>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<algorithm>
+
